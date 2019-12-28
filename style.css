@@ -1,0 +1,36 @@
+.logo {
+    height: 80px;
+    width: 80px ;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+
+.nav-link {
+    font-size: 25px;
+}
+
+.nav {
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+img {
+    height: 300px;
+    width: 450px;
+}
+
+.br {
+    height: 200px;
+    width: 250px;
+}
+
+h2 {
+    color: green;
+}
+
+.p {
+    height: 150px;
+    width: 200px;
+    margin-left: 13%;
+}
+
